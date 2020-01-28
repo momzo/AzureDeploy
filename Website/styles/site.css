@@ -1,0 +1,26 @@
+body{
+	width: 800px;
+	margin: 0 auto;
+	padding:20px;
+	color: white;
+	background-image: url("../images/background.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;	
+	font-family: Gill Sans MT;
+}
+
+h1{
+	font-size: 48pt;
+}
+
+main
+{
+	background-color: #8888;
+	padding:20px;
+	min-height:800px;
+}
+
+p
+{
+	color: white;
+}
